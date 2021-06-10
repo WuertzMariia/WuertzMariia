@@ -10,6 +10,8 @@
 ![HTML](https://aleen42.github.io/badges/src/photoshop.svg)
 ![HTML](https://aleen42.github.io/badges/src/illustrator.svg)
 ![HTML](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![HTML](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 ####  🌱 I'm a student in the Faculty of Informatics at Hochschule für Wirtschaft und Technik in Dresden.
 #### ⚡I'm a hard worker and I learn fast
