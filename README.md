@@ -1,5 +1,5 @@
 👋 My name is Mariia Wuertz ✨ ✨ ✨
-####  🌱 I'm a beginner *front-end developer* from Dresden 
+####  🌱 I'm a *front-end developer* from Dresden 
 ![HTML](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white)
 ![HTML](https://img.shields.io/badge/CSS-239120?logo=css3&logoColor=white)
