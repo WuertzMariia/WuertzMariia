@@ -1,4 +1,4 @@
-👋 My name is Mariia Wuertz ✨ ✨ ✨
+👋 My name is Maria Wuertz ✨ ✨ ✨
 ####  🌱 I'm a *front-end developer* from Dresden 
 ![HTML](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![HTML](https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white)
