@@ -13,8 +13,6 @@
 ![HTML](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
 ![HTML](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-####  🌱 I'm a student in the Faculty of Informatics at Hochschule für Wirtschaft und Technik in Dresden.
-#### ⚡I'm a hard worker and I learn fast
 ![HTML](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white) https://www.linkedin.com/in/mariia-w%C3%BCrtz-92365a1ab/
 
 
